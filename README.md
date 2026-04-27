@@ -10,7 +10,6 @@ const rinkesh = {
   role: "Indie Builder & Full-Stack Engineer",
   experience: "~6 years across iOS, Full-Stack & Cloud",
   location: "India 🇮🇳",
-  currentFocus: "Building Driverji — a two-sided marketplace",
   philosophy: "Ship real products. Learn by building. Compound daily.",
   stack: {
     mobile: ["Swift", "SwiftUI", "React Native", "Expo"],
@@ -25,7 +24,6 @@ const rinkesh = {
 
 ### 💡 What I'm Working On
 
-- 🏗️ **Driverji** — Two-sided marketplace connecting heavy equipment operators with machine/vehicle owners in India
 - 🧠 Building with **AI-augmented dev workflows** — Claude Code CLI, MCP servers, OpenSpec/SDD
 - 🛠️ Crafting **agent-first development environments** — CLAUDE.md, structured specs, layered architecture
 - 📱 6+ years shipping **iOS & full-stack products** across enterprise and indie
@@ -46,8 +44,7 @@ Mobile:
   - React Native / Expo — cross-platform
 
 Frontend:
-  - React, Next.js, TypeScript
-  - TanStack Query, Zustand, Zod
+  - React, Next.js, TypeScript, HTML, CSS
 
 Backend & Cloud:
   - Node.js, Express
@@ -61,7 +58,7 @@ AI-Augmented Dev:
 
 Tools & Process:
   - Docker, Git, Figma
-  - react-hook-form, Zod validation
+  - react-hook-form
   - Domain-driven architecture
 ```
 
@@ -71,9 +68,7 @@ Tools & Process:
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| **🚛 Driverji** | Two-sided marketplace for heavy equipment operators & owners | React Native, Expo, TypeScript, Zustand |
 | **🧘 Pausely** | PWA that cuts decision fatigue with a 3-question flow — no signup needed | Next.js, Vercel |
-| **☕ Coffee Roulette** | Slack bot for random 1:1 pairing inside teams | Bolt.js, Socket Mode, SQLite, Docker, AWS |
 | **🤖 AI Assistant** | Conversational AI assistant | TypeScript |
 | **🏃 MarathonManager** | RFID-based marathon management system | Java |
 
@@ -101,30 +96,15 @@ I've developed custom skills for AI-augmented development:
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rinkesh556patel&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rinkesh556patel&show_icons=true&theme=react&hide_border=true&bg_color=1a1b27&title_color=FFB300&icon_color=FFB300" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rinkesh556patel&theme=react&hide_border=true&background=1a1b27&ring=FFB300&fire=FFB300&currStreakLabel=FFB300" height="165" />
-</p>
-
----
-
 ## 🏆 Experience Timeline
 
 ```
-2026  ── Driverji (indie) — building the marketplace
-2025  ── AI-augmented dev workflows, Claude Code, MCP
-2024  ── Pausely PWA, Coffee Roulette bot, indie pivot
+2026  ── AI-augmented dev workflows, Claude Code, MCP, Pausely PWA
 2023  ── Mindvalley iOS (contract) — QA & analytics
 2022  ── Full-stack & iOS — Everest Engineering
+      ── Seek Asia, enterprise mobile & web
       ── React Native, SwiftUI, AWS, Node.js
 2020  ── Started professional dev career
-      ── Seek Asia, enterprise mobile & web
 ```
 
 ---
@@ -133,13 +113,11 @@ I've developed custom skills for AI-augmented development:
 
 <p align="center">
   <a href="https://github.com/rinkesh556patel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rinkeshpatel556@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- Add more links as needed:
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rinkesh-p"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 -->
 
 ---
@@ -158,9 +136,5 @@ I've developed custom skills for AI-augmented development:
 ║                                                     ║
 ╚═════════════════════════════════════════════════════╝
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:263238,100:FFB300&height=100&section=footer" width="100%" />
-
-<img src="https://komarev.com/ghpvc/?username=rinkesh556patel&label=Profile%20Views&color=FFB300&style=for-the-badge" />
 
 </div>
