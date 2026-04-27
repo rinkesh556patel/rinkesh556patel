@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:263238,100:FFB300&height=200&section=header&text=Rinkesh%20Patel&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Indie%20Builder%20%7C%20Full-Stack%20%26%20iOS%20Engineer&descSize=18&descAlignY=55&descColor=FFB300" width="100%" />
+  
 </div>
 
 ## 🚀 About Me
